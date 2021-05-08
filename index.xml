@@ -33,6 +33,16 @@
     </item>
     
     <item>
+      <title>Novel de-novo Short-Read Genome Assembler</title>
+      <link>https://israwal.github.io/project/genome_assembly/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/genome_assembly/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Jan 2021)&lt;/p&gt;
+&lt;p&gt;I am working as a student researcher at &lt;a href=&#34;https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Data Analytics and Parallel Technologies (ADAPT) Lab, BITS Pilani&lt;/a&gt; with &lt;a href=&#34;https://universe.bits-pilani.ac.in/pilani/poonam/profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Poonam Goyal&lt;/a&gt;. &lt;a href=&#34;https://en.wikipedia.org/wiki/Sequence_assembly&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sequence assemby&lt;/a&gt; is an NP-hard problem which can be modelled as a variant of string reconstruction problem. We are building a novel de-novo short-read genome assembler to reconstruct the contigs efficiently. The proposed assembler is being built with distributed and hierarchical data structures and using intermediaries, unitigs, to avoid the bottlenecks. We harness overlap and paired-end information along with some novel features to extend the unitigs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://israwal.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -106,6 +116,26 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Video Reconstruction From Brain Activity</title>
+      <link>https://israwal.github.io/project/brain_video/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/brain_video/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
+&lt;p&gt;I am working with &lt;a href=&#34;http://userpage.fu-berlin.de/rmcichy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=&#34;https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Dynamics of Visual Cognition Lab&lt;/a&gt;, Freie Universität Berlin) and &lt;a href=&#34;http://www.cvai.cs.uni-frankfurt.de/team.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=&#34;http://www.cvai.cs.uni-frankfurt.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Vision and Artificial Intelligence Lab, Goethe University&lt;/a&gt;) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using Deep Neural Network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network using activation maximization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intervertebral Disc Segmentation using U-Net</title>
+      <link>https://israwal.github.io/project/disc_segment/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/disc_segment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (May 2020 - Jul 2020)&lt;/p&gt;
+&lt;p&gt;This project was completed as my summer internship at &lt;a href=&#34;https://orthobiomech.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=&#34;https://biomech.ethz.ch/the-institute/people/person-detail.html?persid=172198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jonas Widmer&lt;/a&gt;. The project involved building an image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc). The model achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
 </description>
     </item>
     
@@ -235,19 +265,6 @@ Three
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>https://israwal.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://israwal.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
