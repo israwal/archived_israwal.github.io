@@ -30,7 +30,7 @@
 &gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Computer Vision and Artificial Intelligence Lab, Goethe University&lt;/a&gt;) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using Deep Neural Network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network using activation maximization.&lt;/p&gt;
+&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
 </description>
     </item>
     
