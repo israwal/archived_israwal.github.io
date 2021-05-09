@@ -23,6 +23,27 @@
     </item>
     
     <item>
+      <title>Computational Mdelling Of Gene Regulatory Networks Using Formal Methods</title>
+      <link>https://israwal.github.io/project/pbn/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/pbn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
+&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.bits-pilani.ac.in/pilani/rajeshk/profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Rajesh Kumar&lt;/a&gt;, Formal Languages Lab, BITS Pilani, we theoretically showed the close ties between the two popular Boolean models of stochasticity- Stochasticity in Nodes (SIN) and Stochasticity in Function (SIF). This was proved by proving both the models as a special instance of a generic framework of context sensitive probabilistic Boolean networks which are modelled using discrete time markov chains. We also tried to understand the stable attractor dynamics of probabiltic networks and their physical implications as different phenotypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Structure Of Novel Heavy Metal Complexes For Cancer Detection</title>
+      <link>https://israwal.github.io/project/heavy_metal/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/heavy_metal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
+&lt;p&gt;The Cancer Diagnostic Tool project is a collaboration between the Department of Biological Sciences and Department fo Chemsitry, BITS Pilani. As a part of the initiative, in-house developed backbones of novel heavy metal complex were synthesized. My job, under the guidance of &lt;a href=&#34;https://www.bits-pilani.ac.in/pilani/shiba/profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Shibasish Chowdhury&lt;/a&gt; was to find the optimal structure of the complex against
+EphB4 using molecular docking. The results from my in-silico study are being translated to the wet-lab work to test and further optimise the structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Analysis Of Long-Distance Linked Selection In Indian Variants Of SARS-CoV-2</title>
       <link>https://israwal.github.io/project/covid_genome/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
