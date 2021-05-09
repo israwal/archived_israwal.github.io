@@ -18,7 +18,19 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/brain_video/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
-&lt;p&gt;I am working with &lt;a href=&#34;http://userpage.fu-berlin.de/rmcichy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=&#34;https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neural Dynamics of Visual Cognition Lab&lt;/a&gt;, Freie Universität Berlin) and &lt;a href=&#34;http://www.cvai.cs.uni-frankfurt.de/team.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=&#34;http://www.cvai.cs.uni-frankfurt.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computer Vision and Artificial Intelligence Lab, Goethe University&lt;/a&gt;) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using Deep Neural Network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network using activation maximization.&lt;/p&gt;
+&lt;p&gt;I am working with &lt;a href=http://userpage.fu-berlin.de/rmcichy/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Neural Dynamics of Visual Cognition Lab&lt;/a&gt;, Freie Universität Berlin) and &lt;a href=http://www.cvai.cs.uni-frankfurt.de/team.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Computer Vision and Artificial Intelligence Lab, Goethe University&lt;/a&gt;) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using Deep Neural Network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network using activation maximization.&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +40,10 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/covid_genome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (June 2020 - Sept 2020)&lt;/p&gt;
-&lt;p&gt;This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=&#34;http://arunsethuraman.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality. Such association rules were mined using apriori algorithm and their individual stability was analyzed. This was the first ever data-driven analysis of viral long-range mutations. We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
+&lt;p&gt;This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=http://arunsethuraman.weebly.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality. Such association rules were mined using apriori algorithm and their individual stability was analyzed. This was the first ever data-driven analysis of viral long-range mutations. We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
 </description>
     </item>
     
@@ -38,7 +53,13 @@
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/disc_segment/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (May 2020 - Jul 2020)&lt;/p&gt;
-&lt;p&gt;This project was completed as part of my summer internship at &lt;a href=&#34;https://orthobiomech.ethz.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=&#34;https://biomech.ethz.ch/the-institute/people/person-detail.html?persid=172198&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
+&lt;p&gt;This project was completed as part of my summer internship at &lt;a href=https://orthobiomech.ethz.ch/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=https://biomech.ethz.ch/the-institute/people/person-detail.html?persid&amp;#61;172198
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
 </description>
     </item>
     
