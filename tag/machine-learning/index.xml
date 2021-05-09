@@ -23,7 +23,17 @@
     </item>
     
     <item>
-      <title>Intervertebral Disc Segmentation using U-Net</title>
+      <title>Analysis Of Long-Distance Linked Selection In Indian Variants Of SARS-CoV-2</title>
+      <link>https://israwal.github.io/project/covid_genome/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/covid_genome/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (June 2020 - Sept 2020)&lt;/p&gt;
+&lt;p&gt;This project was done during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=&#34;http://arunsethuraman.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect the causal influence of a set of mutations over another. Such association rules were mined using apriori algorithm and their individual stability was analyzed. This was the first ever data-driven analysis of viral long-range mutations. We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intervertebral Disc Segmentation Using U-Net</title>
       <link>https://israwal.github.io/project/disc_segment/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/disc_segment/</guid>
