@@ -18,7 +18,7 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/brain_video/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
-&lt;p&gt;I am working with &lt;a href=http://userpage.fu-berlin.de/rmcichy/
+&lt;p&gt;I am being advised by &lt;a href=http://userpage.fu-berlin.de/rmcichy/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
 &gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
@@ -30,7 +30,7 @@
 &gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
+&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) for my master&amp;rsquo;s thesis. We are decoding and reconstructing the features of natural videos from brain fMRI signals using deep learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
 </description>
     </item>
     
@@ -43,10 +43,7 @@
 &lt;p&gt;This project was completed as part of my summer internship at &lt;a href=https://orthobiomech.ethz.ch/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=https://biomech.ethz.ch/the-institute/people/person-detail.html?persid&amp;#61;172198
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
+&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of Dr. Jonas Widmer. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to identify spinal defects. Particularly, I was involved in the segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc.) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1%, and the overall segmentation pipeline scored 91.8%, which is competitive with the state-of-the-art approaches.&lt;/p&gt;
 </description>
     </item>
     
